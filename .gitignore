@@ -1,4 +1,5 @@
-# Local dev server logs
+# Local dev server + logs (not part of deployed site)
+server.js
 server.out.log
 server.err.log
 
