@@ -1,0 +1,12 @@
+# Local dev server logs
+server.out.log
+server.err.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
